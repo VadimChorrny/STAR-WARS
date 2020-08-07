@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.logo {
+  font-family: "Keania One", cursive;
+  color: yellow;
+  display: contents;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.hr {
+  margin-left: 13em;
+  color: gray;
+  width: 50em;
+}
